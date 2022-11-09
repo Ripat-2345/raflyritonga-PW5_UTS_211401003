@@ -1,0 +1,310 @@
+html, *, body {
+     padding: 0;
+     margin: 0;
+     font-family: 'Poppins', sans-serif;
+     box-sizing: border-box;
+     background-color: #ffffff;
+}
+
+/* NAVBAR */
+.navbar{
+     padding: 0;
+     position: sticky;
+     top: 0;
+     z-index: 5;
+}
+
+.nav-pills .navbar-collapse .active{
+     background-color: #52796F;
+}
+
+.nav-link{
+     font-size: 16px;
+     font-weight: 500;
+     color: #212529;
+     margin: 3px;
+}
+
+.nav-link:hover{
+     color:#989696 ;
+}
+
+.navbar-nav{
+     padding-right: 5px;
+}
+
+
+/* GALERI */
+.fContainer-galeri{
+     width: 100%;
+     height: 100vh;
+     margin: auto;
+     padding-top: 100px;
+     background-attachment: fixed;
+     background-position: center;
+     background-size: cover; 
+     animation: change 10s infinite ease-in-out;
+     background-image: url(img/kuraPapua.jpg);
+     filter: brightness(.8);
+     box-shadow: -10px 8px 17px -8px rgba(0,0,0,0.85);
+     -webkit-box-shadow: -10px 8px 17px -8px rgba(0,0,0,0.85);
+     -moz-box-shadow: -10px 8px 17px -8px rgba(0,0,0,0.85);
+}
+
+.galeri-caption{
+     width: 100%;
+     height: 30%;
+     background-color: rgba(0,0,0,0);
+     margin: 25% auto 0 auto ;
+}
+
+.galeri-caption > p{
+     background-color: rgba(0,0,0,0);
+     text-shadow: -3px 1px 5px #212529;
+     color: white;
+     text-align: center;
+     font-size: 30px;
+     padding-top: 30px;
+     font-weight: 900;
+     margin-bottom: 7px;
+}
+
+.galeri-caption > p > span{
+     background-color: rgba(0,0,0,0);
+     text-decoration: underline;
+}
+
+.galeri-caption > a > .button-space {
+     background-color: rgba(0,0,0,0);
+     margin-top: 0;
+}
+
+.galeri-caption > a > .button-space .btn {
+     margin: auto;
+     background-color: #52796F;
+     color: white;
+     transition: all ease-in-out .3s;
+     text-align: center;
+}
+
+.galeri-caption > a > .button-space .btn:hover{
+     background-color: #37504a;
+     transition: all ease-in-out .3s;
+     cursor: pointer;
+}
+
+/* TENTANG */
+.fContainer-tentang{
+     width: 90%;
+     height: 60vh;
+     /* background-color: royalblue; */
+     margin: 50px auto auto auto;
+}
+.tentang-desc{
+     margin: 0 auto 0 auto;
+     width: 100%;
+     height: 88%;
+     display: grid;
+     /* background-color: #AAAA77; */
+     
+}
+
+.desc-caption .capt{
+     width: 90%;
+     height: 45%;
+     text-align: center;
+     padding: 20px 25px 0 25px;
+     margin: auto;
+     font-weight: 400;
+     font-size: 18px;
+     color: black;
+     /* background-color: aqua; */
+}
+
+.desc-caption .programs{
+     width: 60%;
+     height: 16%;
+     margin: auto;
+     padding: 0;
+}
+
+.desc-caption .programs > ul{
+     display: flex;
+     justify-content: space-around;
+     list-style-type: none;
+     height: 120px;
+     /* background-color: brown; */     
+}
+
+.desc-caption .programs > ul > li{
+     background-color: rgba(0, 0, 0, 0);
+}
+
+.desc-caption .programs > ul > li  .program-icons{
+     /* background-color: crimson; */
+     text-align: center;
+     width: 100px;
+     height: 100px;
+}
+.program-icons > img{
+     width: 50px;
+     height: 50px;
+}
+
+.program-icons > p{
+     /* background-color: cadetblue; */
+     padding-top: 2px;
+     font-size: 14px;
+     font-weight: 400;
+     margin-top: 5px;
+     color: black;
+}
+
+
+.desc-caption .programs > a > button{
+     border: #52796F solid 2px;
+     transition: all ease-in-out .3s;
+     font-size: 14px;
+     margin: -40px auto 0 280px; 
+     color: black;
+}
+
+
+.programs > a > button:hover{
+     background-color: #52796F;
+     color: white;
+     transition: all ease-in-out .3s;
+}
+
+
+/* Footer */
+.fContainer-footer{
+     margin-top: 0px;
+     width: 100%;
+     height: 65vh;
+     background-color: #202020;
+     padding-top: 30px;
+}
+
+.footer-content{
+     background-color: rgba(0, 0, 0, 0);
+     display: grid;
+     grid-template-columns: 55% 45%;
+     height: 80%;
+}
+
+.footer-content-left{
+     background-color: rgba(0, 0, 0, 0);
+     padding-left: 20px;
+}
+
+.footer-content-left .logo-footer{
+     background-color: rgba(0, 0, 0, 0);
+}
+
+.footer-content-left > h4{
+     background-color: rgba(0, 0, 0, 0);
+     color: #EDF2F4;
+     font-size: 16px;
+}
+
+.footer-content-left .footer-form{
+     background-color: rgba(0, 0, 0, 0);
+}
+
+.footer-content-left .logo-footer > img{
+     background-color: rgba(0, 0, 0, 0);
+}
+
+.footer-content-left .footer-form > button{
+     margin-top: 20px;
+     background-color: rgb(128, 125, 125);
+     transition: all ease-in-out .3s;
+}
+
+.footer-content-left .footer-form > button:hover{
+     background-color: rgba(0, 0, 0, 0);
+     border: rgb(128, 125, 125) solid 2px ;
+     color: white;
+     transition: all ease-in-out .3s;
+}
+
+
+.footer-content-right{
+     background-color: rgba(0, 0, 0, 0);
+}
+
+.footer-menu > li > a, .social-media > li > a{
+    color: #EDF2F4;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.footer-menu > li > a:hover, .social-media > li > a:hover{
+    color: #7f7f7f;   
+}
+
+.footer-content-right .footer-menu{
+     list-style-type: none;
+     background-color: rgba(0, 0, 0, 0);
+     padding-left: 40px;
+     padding-top: 20px;
+}
+
+.footer-content-right .footer-menu > li{
+     margin-bottom: 20px;
+     background-color: rgba(0, 0, 0, 0);
+}
+
+.footer-content-right .social-media{
+     list-style-type: none;
+     background-color: rgba(0, 0, 0, 0);
+     display: flex;
+     padding-left: 40px;
+}
+
+.footer-content-right .social-media > li{
+     margin-top: 20px;
+     margin-right: 20px;
+     background-color: rgba(0, 0, 0, 0);
+}
+
+.footer-content-right .social-media > li > a > img{
+     background-color: rgba(0, 0, 0, 0);
+     width: 30px;
+     transition: all ease-in-out .5s;
+}
+
+.footer-content-right .social-media > li > a > img:hover{
+     filter: brightness(3);
+     transition: all ease-in-out .5s;
+}
+
+.fContainer-footer > span > p{
+     width: 100%;
+     height: 35px;
+     font-size: 14px;
+     font-weight: 100;
+     text-align: center;
+     background-color: rgba(0, 0, 0, 0);
+     color: aliceblue;
+     padding: 5px;
+     margin: 40px auto 0 auto;
+     border-top: solid 0.5px rgb(69, 66, 66);
+}
+
+/* KEYFRAMES */
+@keyframes change{
+     20%
+     {
+          background-image: url(img/biuku2.jpg) ;
+     }
+     50%
+     {
+          background-image: url(img/penyuBromo2.jpg) ;
+     }
+     100%
+     {
+          background-image: url(img/kuraPapua.jpg);
+     }
+}

@@ -1,0 +1,180 @@
+KURA-KURA DI INDONESIA
+
+- Dilindungi
+	1. labi-labi moncong babi (Carettochelys insculpta) 1
+		Nama Indonesia	: Labi-labi Moncong Babi 
+		Nama Ilmmiah	: Carettochelys insculpta
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/3898/2884984)
+		Habitat		: Sungai Dangkal
+		Daerah Pesebaran	: Papua dan Papua Nugini
+
+	2. Kura-kura Ular Rote (Chelodina mccordi)
+		Nama Indonesia	: Kura-Kura Ular Rote 
+		Nama Ilmmiah	: Chelodina mccordi
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/123814489/123814575)
+		Habitat		: Lahan Basah, Sungai Dangkal
+		Daerah Pesebaran	: Endemik Pulau Rote, NTT
+		
+
+	3. Kura-kura Leher Panjang Papua (Chelodina novaeguineae)
+		Nama Indonesia	: Kura-kura Leher Panjang Papua 
+		Nama Ilmmiah	: Chelodina novaeguineae
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf)
+		Habitat		: Lahan Basah, Sungai Dangkal
+		Daerah Pesebaran	: Papua, Papua Nugini
+		
+	4. Penyu Bromo (Caretta caretta)
+		Nama Indonesia	: Penyu Bromo
+		Nama Ilmmiah	: Caretta caretta
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/3897/119333622)
+		Habitat		: Laut Lepas, Pesisir Pantai
+		Daerah Pesebaran	: Indonesia, Australia, dst
+
+	5. Penyu Hijau (Chelonia mydas)
+		Nama Indonesia	: Penyu Hijau
+		Nama Ilmmiah	: Chelonia mydas
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/4615/11037468)
+		Habitat		: Laut Lepas, Pesisir Pantai
+		Daerah Pesebaran	: Indonesia, Cina, India, dst
+
+		
+	6. Penyu Sisik (Eretmochelys imbricata)
+		Nama Indonesia	: Penyu Sisik
+		Nama Ilmmiah	: Eretmochelys imbricata
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/8005/12881238)
+		Habitat		: Laut Lepas, Pesisir Pantai
+		Daerah Pesebaran	: Indonesia, Sri Langka, Filipina, dst
+
+	7. Penyu Lekang (Lepidochelys olivacea) 2
+		Nama Indonesia	: Penyu Lekang
+		Nama Ilmmiah	: Lepidochelys olivacea
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/11534/3292503)
+		Habitat		: Laut Lepas, Pesisir Pantai
+		Daerah Pesebaran	: Indonesia, Kenya, Kamboja, dst
+
+	8. Penyu Pipih (Natator depressus)
+		Nama Indonesia	: Penyu Pipih
+		Nama Ilmmiah	: Natator depressus
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf)
+		Habitat		: Laut Lepas, Pesisir Pantai
+		Daerah Pesebaran	: Indonesia, Australia, dst
+
+	9. Penyu Belimbing (Dermochelys coriacea)
+		Nama Indonesia	: Penyu Belimbing
+		Nama Ilmmiah	: Dermochelys coriacea
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/6494/43526147)
+		Habitat		: Laut Lepas, Pesisir Pantai
+		Daerah Pesebaran	: Indonesia, Australia, Bahrain, dst
+		
+	10. Biuku (Batagur affinis)
+		Nama Indonesia	: Biuku
+		Nama Ilmmiah	: Batagur affinis
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/170501/152041284)
+		Habitat		: Sungai Payau, Lahan Basah
+		Daerah Pesebaran	: Pulau Sumatera
+
+
+	11. Bajuku (Orlitia borneensis) 1
+		Nama Indonesia	: Bajuku
+		Nama Ilmmiah	: Orlitia borneensis
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/15509/724972)
+		Habitat		: Hutan Tropis, Lahan Basah
+		Daerah Pesebaran	: Pulau Sumatera dan Kalimantan
+		
+	12. Beluku (Batagur borneensis) 1
+		Nama Indonesia	: Beluku
+		Nama Ilmmiah	: Batagur borneensis
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/163458/1009824)
+		Habitat		: Hutan Tropis, Laut, Sungai Payau
+		Daerah Pesebaran	: Pulau Sumatera dan Kalimantan
+		
+		
+	13. Labi-Labi Bintang (Chitra Chitra)
+		Nama Indonesia	: Labi-labi Bintang
+		Nama Ilmmiah	: Chitra Chitra
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/4695/152049778)
+		Habitat		: Lahan Basah
+		Daerah Pesebaran	: Pulau Jawa
+		
+	14. Baning Cokelat (Manouria emys) 
+		Nama Indonesia	: Baning Cokelat
+		Nama Ilmmiah	: Manouria emys
+		Status		: Dilindungi (http://ksdae.menlhk.go.id/assets/news/peraturan/P.106-2018_JENIS_TSL_.pdf) dan Terancam Punah (https://www.iucnredlist.org/species/12774/152052098)
+		Habitat		: Hutan Tropis
+		Daerah Pesebaran	: Pulau Sumatera dan Kalimantan
+		
+
+- Tidak Dilindungi
+	1. Kura-Kura Dada Merah (Elseya Rhodini)
+		Nama Indonesia	: Kura-kura Dada Merah
+		Nama Ilmmiah	: Elseya Rhodini
+		Status		: Tidak Dilindungi
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Papua
+
+	2. Kura-kura Pipi Putih (Siebenrockiella crassicollis)
+		Nama Indonesia	: Kura-kura Pipi Putih
+		Nama Ilmmiah	: Siebenrockiella crassicollis
+		Status		: Tidak Dilindungi
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Pulau Sumatera dan Kalimantan
+	
+	3. Kura-kura Batok Ambon (Cuora amboinensis)
+		Nama Indonesia	: Kura-kura Batok Ambon
+		Nama Ilmmiah	: Cuora amboinensis
+		Status		: Tidak Dilindungi
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Indonesia
+
+	4. Kura-kura Dada Putih Nova (Elseya Novaeguineae)
+		Nama Indonesia	: Kura-kura Dada Putih Nova
+		Nama Ilmmiah	: Elseya Novaeguineae
+		Status		: Tidak Dilindungi
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Papua
+
+	5. Kura-kura Daun (Cyclemys dentata)
+		Nama Indonesia	: Kura-kura Daun
+		Nama Ilmmiah	: Cyclemys dentata
+		Status		: Tidak Dilindungi
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Indonesia
+
+	6. Kura-kura Dada Putih Branderhorsti (Elseya Branderhorsti) 
+		Nama Indonesia	: Kura-kura Dada Putih Branderhorsti
+		Nama Ilmmiah	: Elseya Branderhorsti
+		Status		: Tidak Dilindungi
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Papua
+	
+-Terancam Punah 
+	1. Kura-kura hutan Sulawesi (Leucocephalon yuwonoi) 2
+		Nama Indonesia	: Kura-kura Hutan Sulawesi
+		Nama Ilmmiah	: Leucocephalon Yuwonoi
+		Status		: Terancam Punah (https://www.iucnredlist.org/species/40761/2933851)
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Endemik Pulau Sulawesi
+
+
+	2. Kura-kura Forsteni (Indotestudo Forstenii) 	1
+		Nama Indonesia	: Kura-kura Forsteni
+		Nama Ilmmiah	: Indotestudo Forstenii
+		Status		: Terancam Punah (https://www.iucnredlist.org/species/10825/499158)
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Endemik Pulau Sulawesi
+
+	
+	3. Kura-kura matahari (Heosemys spinosa)
+		Nama Indonesia	: Kura-kura Matahari
+		Nama Ilmmiah	: Heosemys spinosa
+		Status		: Terancam Punah (https://www.iucnredlist.org/species/9942/3152508)
+		Habitat		: Sungai dan Hutan Tropis
+		Daerah Pesebaran	: Pulau Sumatera dan Kalimantan
+
+
+WARNA
+#CB958E Rosy Brown
+#00171F Rich Black FORGA 29
+#244E2D Forest Green Traditional
+#E5E5E5
+#F3CDAA Light Orange
